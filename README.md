@@ -25,16 +25,16 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 **I learned:** (repeat as needed)
 - .
-
+How to commit within vscode, before i had only known how to do it within other programs.
 **I struggled with:** (repeat as needed)
 - .
-
+Having an empty message in my commits, did not know i had to fill it out where I had to.
 **I need the instructor to help me with:** (repeat as needed)
 - .
-
+initial setup. After that I was able to handle it without outside help.
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
 
-
+18/20 as I belive I did everything right but there was some errors I encountered and am not sure their fully fixed.
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
 - .
